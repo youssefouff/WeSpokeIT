@@ -79,7 +79,7 @@ export const pricingOptions = [
     price: "$1",
     per: "/Day",
     features: [
-      "Subscribe daily for 1$ per bank account",
+      "Subscribe daily for 1$ per reconciled statement",
     ],
   },
   {
@@ -87,7 +87,7 @@ export const pricingOptions = [
     price: "$20",
     per: "/Month",
     features: [
-      "Subscribe monthly for 20$ per bank account",
+      "Subscribe monthly for 20$ per reconciled statement",
     ],
   },
   {
@@ -95,7 +95,7 @@ export const pricingOptions = [
     price: "$180",
     per: "/Year",
     features: [
-      "Subscribe annually for 180$ per bank account",
+      "Subscribe annually for 180$ per reconciled statement",
     ],
   },
 ];
