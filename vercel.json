@@ -1,0 +1,25 @@
+{
+
+    "routes" : [
+        
+        {
+            "src" : "/",
+            "dest" : "/"
+        },
+        
+        {
+            "src" : "/terms",
+            "dest" : "/"
+        },
+        
+        {
+            "src" : "/privacy",
+            "dest" : "/"
+        },
+        
+        {
+            "src" : "/refund-cancellation",
+            "dest" : "/"
+        }
+    ]
+}
