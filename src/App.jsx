@@ -31,13 +31,6 @@ const App = () => {
             )}
           />
           <Route path="/sign-in" element={<SignInPage />} />
-          <Route path="/wematchit" element={(
-            <>
-            <Navbar />
-            <Wematchit />
-            </>
-          )}
-           />
           <Route path="/terms" element={(
             <>
             <Navbar />
