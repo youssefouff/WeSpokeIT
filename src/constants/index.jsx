@@ -75,7 +75,7 @@ export const pricingOptions = [
     ],
   },
   {
-    title: "Daily",
+    title: "Weekly",
     price: "$1",
     per: "/Day",
     features: [
