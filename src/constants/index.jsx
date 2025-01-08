@@ -77,7 +77,7 @@ export const pricingOptions = [
   {
     title: "Weekly",
     price: "$1",
-    per: "/Day",
+    per: "/Week",
     features: [
       "Subscribe daily for 1$ per reconciled statement",
     ],
