@@ -66,14 +66,14 @@ export const checklistItems = [
 ];
 
 export const pricingOptions = [
-  {
-    title: "Free Trial",
-    price: "$0",
-    per:"",
-    features: [
-      "Free Trial for 7 days",
-    ],
-  },
+  // {
+  //   title: "Free Trial",
+  //   price: "$0",
+  //   per:"",
+  //   features: [
+  //     "Free Trial for 7 days",
+  //   ],
+  // },
   {
     title: "Weekly",
     price: "$1",
@@ -82,22 +82,22 @@ export const pricingOptions = [
       "Subscribe weekly for 1$ per reconciled statement",
     ],
   },
-  {
-    title: "Monthly",
-    price: "$20",
-    per: "/Month",
-    features: [
-      "Subscribe monthly for 20$ per reconciled statement",
-    ],
-  },
-  {
-    title: "Annually",
-    price: "$180",
-    per: "/Year",
-    features: [
-      "Subscribe annually for 180$ per reconciled statement",
-    ],
-  },
+  // {
+  //   title: "Monthly",
+  //   price: "$20",
+  //   per: "/Month",
+  //   features: [
+  //     "Subscribe monthly for 20$ per reconciled statement",
+  //   ],
+  // },
+  // {
+  //   title: "Annually",
+  //   price: "$180",
+  //   per: "/Year",
+  //   features: [
+  //     "Subscribe annually for 180$ per reconciled statement",
+  //   ],
+  // },
 ];
 
 export const resourcesLinks = [
